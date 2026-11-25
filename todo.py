@@ -1,5 +1,3 @@
-"""命令行待办事项：AI 协助开发的入门学习示例。"""
-
 import json
 from pathlib import Path
 
