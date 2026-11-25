@@ -1,7 +1,7 @@
 """桌面版待办清单 —— Tkinter 图形界面。
 
 运行：py app.py
-打包：py build.py  （生成 dist/TodoList.exe）
+ai生成的前端
 
 界面结构：
     左侧栏   视图筛选 / 分类筛选 / 完成率
